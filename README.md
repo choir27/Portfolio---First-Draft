@@ -1,6 +1,6 @@
 <h1 align = 'center'>Portfolio Website</h1>
-
-![Capture5](https://user-images.githubusercontent.com/66279068/166518428-59de8003-15b8-409e-bb82-3cb88ec4d194.PNG)
+<a href = 'https://choir.netlify.app/>
+![Capture5](https://user-images.githubusercontent.com/66279068/166518428-59de8003-15b8-409e-bb82-3cb88ec4d194.PNG)</a>
 
 
 <section align= 'center'>
